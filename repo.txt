@@ -1,1 +1,2 @@
-Tu wstawię link do repozytorium.
+Link do repozytorium:
+https://github.com/witekm1958/podyplomowe
